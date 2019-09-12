@@ -1,0 +1,150 @@
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\bin\Debug\播放控制.exe.config
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\bin\Debug\播放控制.exe
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\bin\Debug\播放控制.pdb
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\bin\Debug\Interop.WMPLib.dll
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\bin\Debug\AxInterop.WMPLib.dll
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\Interop.WMPLib.dll
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\AxInterop.WMPLib.dll
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\播放控制.Form1.resources
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\播放控制.exe
+E:\项目文件\单台播放 - 万能解码\Medio Plyer播放控制\播放控制\obj\Debug\播放控制.pdb
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe.config
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\bin\Debug\播放控制.pdb
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\bin\Debug\Interop.WMPLib.dll
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\bin\Debug\AxInterop.WMPLib.dll
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\Interop.WMPLib.dll
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\AxInterop.WMPLib.dll
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\播放控制.Form1.resources
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\播放控制.exe
+E:\项目文件\多台播放 - 万能解码\播放控制 完美解码\播放控制\obj\Debug\播放控制.pdb
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe.config
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\播放控制.pdb
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\Interop.WMPLib.dll
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\AxInterop.WMPLib.dll
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\Interop.WMPLib.dll
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\AxInterop.WMPLib.dll
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\播放控制.Form1.resources
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\播放控制.exe
+F:\项目文件\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\播放控制.pdb
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe.config
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\播放控制.pdb
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\Interop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\bin\Debug\AxInterop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\Interop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\AxInterop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\播放控制.Form1.resources
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\播放控制.exe
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型\播放控制 完美解码\播放控制\obj\Debug\播放控制.pdb
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe.config
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\播放控制.pdb
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\Interop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\AxInterop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\Interop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\AxInterop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\播放控制.Form1.resources
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\播放控制.exe
+F:\项目文件\4.0环境\多台播放 - 万能解码 - 总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\播放控制.pdb
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe.config
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\播放控制.pdb
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\Interop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\bin\Debug\AxInterop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\Interop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\AxInterop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\播放控制.Form1.resources
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\播放控制.exe
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频\播放控制 完美解码\播放控制\obj\Debug\播放控制.pdb
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe.config
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\bin\Debug\播放控制.pdb
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\bin\Debug\Interop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\bin\Debug\AxInterop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\Interop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\AxInterop.WMPLib.dll
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\播放控制.Form1.resources
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\播放控制.exe
+F:\项目文件\4.0环境\多台播放 -  总规模型 - 带待机视频 - ppt\播放控制 完美解码\播放控制\obj\Debug\播放控制.pdb
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe.config
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\bin\Debug\播放控制.pdb
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\bin\Debug\Interop.WMPLib.dll
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\bin\Debug\AxInterop.WMPLib.dll
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\Interop.WMPLib.dll
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\AxInterop.WMPLib.dll
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\播放控制.Form1.resources
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\播放控制.exe
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机\播放控制 完美解码\播放控制\obj\Debug\播放控制.pdb
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe.config
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\bin\Debug\播放控制.exe
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\bin\Debug\播放控制.pdb
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\bin\Debug\Interop.WMPLib.dll
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\bin\Debug\AxInterop.WMPLib.dll
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\Interop.WMPLib.dll
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\AxInterop.WMPLib.dll
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\播放控制.Form1.resources
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\播放控制.exe
+F:\项目文件\备份文件\八月\济南绿地国博展 单台播放 总规模型 - 配置手动点 - ppt+待机+激光灯\播放控制 完美解码\播放控制\obj\Debug\播放控制.pdb
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\bin\Debug\灯光控制.exe.config
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\bin\Debug\灯光控制.exe
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\bin\Debug\灯光控制.pdb
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\bin\Debug\Interop.WMPLib.dll
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\bin\Debug\AxInterop.WMPLib.dll
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csprojAssemblyReference.cache
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\Interop.WMPLib.dll
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\AxInterop.WMPLib.dll
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.ResolveComReference.cache
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\播放控制.Form1.resources
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\播放控制.Properties.Resources.resources
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.GenerateResource.cache
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\万能播放控制.csproj.CoreCompileInputs.cache
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\灯光控制.exe
+F:\项目文件\备份文件\八月\宁波舟山港\宁波舟山港数字沙盘\播放控制 完美解码\播放控制\obj\Debug\灯光控制.pdb
